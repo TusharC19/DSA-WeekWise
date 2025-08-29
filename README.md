@@ -58,7 +58,7 @@ This repo is a reflection of how I started as a beginner and completed my DSA le
 ## 📚 Recommended Resources for Beginners  
 If you’re also starting your DSA journey, here are some amazing resources that helped me and many learners:  
 
-- **[Striver’s SDE Sheet](https://takeuforward.org/interviews/strivers-sde-sheet-top-coding-interview-problems/)** → Covers most asked coding interview questions in a structured way.  
+- **[Striver’s A2Z DSA Sheet](https://takeuforward.org/strivers-a2z-dsa-course/strivers-a2z-dsa-course-sheet-2/)** → Perfect for absolute beginners, covers everything step by step. 
 - **[Love Babbar’s DSA Sheet](https://www.geeksforgeeks.org/dsa-sheet-by-love-babbar/)** → A well-organized list of 450+ questions to strengthen DSA.  
 - Their **paid courses** are also great if you want structured learning with mentorship. 🎓  
 
